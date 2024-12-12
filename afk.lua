@@ -6,7 +6,7 @@ local Activate = Instance.new("TextButton")
 local UICorner = Instance.new("UICorner")
 local OpenClose = Instance.new("ImageButton")
 local UICorner_2 = Instance.new("UICorner")
-local EyeIconURL = "https://cdn-icons-png.flaticon.com/512/5709/5709755.png"
+local EyeIconURL = "rbxassetid://6035047377"
 
 Rice.Name = "Rice"
 Rice.Parent = game.CoreGui
